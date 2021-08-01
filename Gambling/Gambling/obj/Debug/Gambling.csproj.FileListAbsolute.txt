@@ -1,0 +1,6 @@
+C:\Users\owenm\RiderProjects\Gambling\Gambling\bin\Debug\Gambling.exe
+C:\Users\owenm\RiderProjects\Gambling\Gambling\bin\Debug\Gambling.pdb
+C:\Users\owenm\RiderProjects\Gambling\Gambling\obj\Debug\Gambling.csprojAssemblyReference.cache
+C:\Users\owenm\RiderProjects\Gambling\Gambling\obj\Debug\Gambling.csproj.CoreCompileInputs.cache
+C:\Users\owenm\RiderProjects\Gambling\Gambling\obj\Debug\Gambling.exe
+C:\Users\owenm\RiderProjects\Gambling\Gambling\obj\Debug\Gambling.pdb
