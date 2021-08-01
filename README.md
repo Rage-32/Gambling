@@ -1,0 +1,2 @@
+# Gambling
+Simple gambling script
